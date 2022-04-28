@@ -1,8 +1,6 @@
 - 👋 Hello, this is galliFrancesco
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Don't]
+- This account is mainly used for school
 
 <!---
 galliFrancesco/galliFrancesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
