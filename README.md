@@ -1,5 +1,7 @@
 - 👋 Hello, this is galliFrancesco
-- 📫 How to reach me [Don't]
+- 📫 How to reach me 
+  - Telggmakdawmkl
+  - 
 - This account is mainly used for school
 
 <!---
