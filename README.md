@@ -1,6 +1,7 @@
 - 👋 Hello, this is galliFrancesco
 - 📫 How to reach me 
-  - Telegram: @link_mario_galli
+  - 📧Telegram: @link_mario_galli
+  - 🐦Twitter: @linkmariogalli
 - This account is mainly used for school / personal projects
 
 <!---
